@@ -1,0 +1,34 @@
+.navBackground{
+    background-color: #ff660d;
+    height: 50px;
+    align-items: center;
+}
+
+.siteBackground{
+    background-color: rgb(27, 24, 23);
+    color: white;
+}
+
+.titlebox{
+    font-size: 45px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.titlebox2{
+    font-size: 30px;
+    text-align: center;
+}
+
+.titleContainer{
+    width: 400px;
+    height:100px;
+}
+
+.section1Background{
+    display: flex;
+    background-color: #626262;
+    height: 700px;
+    justify-content: left;
+    align-items: center;
+}

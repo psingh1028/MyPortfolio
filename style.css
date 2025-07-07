@@ -37,11 +37,21 @@
 .section1Background{
     display: flex;
     background-color: #fb7f69;
-    height: 500px;
+    min-height: 500px;
     justify-content: left;
     align-items: center;
 }
 
-.aboutMe{
+.infoMargin{
     margin: 50px
 }
+
+.listHorizontal{
+    display: flex;
+}
+
+ .listHorizontal li{
+            margin-right:50px;
+        }
+
+
